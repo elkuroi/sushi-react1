@@ -1,0 +1,33 @@
+
+.logo{
+    width: 100px;
+    text-align: center;
+  }
+
+  .navbar{
+    display: flex;
+    justify-content: space-around;
+    padding: 16px;
+    color: #ffffff;
+  }
+
+  .logo_p{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+.nav-menu{
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 50px;
+    font-family: 20px;
+    font-weight: 500;
+}
+
+.logo_p p{
+    font-size: 38px;
+    font-weight: 600;
+  }

@@ -1,12 +1,11 @@
-import logo from './img/logo.jpg';
 import './App.css';
-import Navbar from './Components/Navbar'
+import Navbar from './Components/Navbar/Navbar'
 
 function App() {
   return (
     <div className="App">
       <body>
-      <img className='logo' src={logo} alt="image"/>
+      <Navbar/>
       </body>
     </div>
   );

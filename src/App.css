@@ -1,5 +1,4 @@
 .App {
-  text-align: center;
   background-color: #333333;
   height: 100%;
   width: 100%;
@@ -9,6 +8,3 @@ body{
   background-color: #333333;
 }
 
-.logo{
-  width: 200px;
-}
