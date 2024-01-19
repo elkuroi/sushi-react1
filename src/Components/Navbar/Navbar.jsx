@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import './Navbar.css';
 import logo from '../img/logo.png';
 import cart_icon from '../img/cart_icon.png';
-import Link from "react";
+import Link from 'react';
 
 const Navbar = () =>{
 
